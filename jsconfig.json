@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "baseUrl": "src"
+    },
+    "include": ["src"]
+}
+// Essas poucas linhas simples dirão à configuração 
+// do Create React App para usar seu diretório src como 
+// base para suas importações, para que você possa importar 
+// arquivos e componentes com caminhos absolutos.
